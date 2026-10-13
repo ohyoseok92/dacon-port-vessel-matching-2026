@@ -1,0 +1,2 @@
+# Evaluation image preinstalls lightgbm 4.6.0, sklearn 1.5.2, rapidfuzz 3.14.3,
+# pandas 2.0.3, numpy 1.26.4 and joblib 1.5.2. No inference download needed.
